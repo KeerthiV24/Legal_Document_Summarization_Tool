@@ -16,7 +16,7 @@ Frameworks: Flask/Django, Streamlit
 
 ML Models: Hugging Face Transformers, spaCy
 
-Deployment: Docker, AWS/GCP/Heroku
+Deployment: Docker, AWS/GCP/Heroku   
 
 Libraries: Pandas, NLTK, PyPDF2
 
